@@ -17,9 +17,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **SystemOz**, a developer interested in designing, building, and improving practical software. My work and learning span **web development**, **Python automation**, **software engineering**, **artificial intelligence**, and **defensive, ethical cybersecurity**.
+I'm SystemOz, an Information Systems Development graduate with an academic background in software development, web technologies, databases, and mobile applications.
 
-I enjoy turning ideas into working projects, understanding how systems operate, and documenting what I learn along the way.
+During my studies, I explored technologies including Python, Java, C#, HTML, CSS, databases, and development frameworks.
+
+I'm passionate about technology and enjoy turning ideas into functional applications, exploring solutions, and continuously improving projects.
+
+Artificial intelligence has played an important role in my development journey, helping me experiment with different technologies and bring my ideas to life.
+
+My current goal is to strengthen my programming fundamentals, understand the systems I build, and become a more independent and confident software developer.
+
+My philosophy: Build. Understand. Improve. Explore.
 
 - 🔭 **Currently focused on:** strengthening my portfolio through useful, well-documented projects.
 - 🧠 **Exploring:** AI-powered applications, automation workflows, and secure software practices.
