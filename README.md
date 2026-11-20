@@ -1,6 +1,6 @@
 <div align="center">
 
-![SystemOz — Dark Tech Purple banner](assets/systemoz-banner.svg)
+![SystemOz — Dark Tech Purple Banner](assets/systemoz-banner.svg)
 
 # Hi, I'm SystemOz 👋
 
