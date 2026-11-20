@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="SYSTEMOZ — Build. Automate. Secure. Explore.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d0b18"/><stop offset="1" stop-color="#241b3d"/></linearGradient>
+ <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#6d28d9"/><stop offset="0.6" stop-color="#a78bfa"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8b5cf6" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)"/>
+<path d="M0 0H1200V300H0Z" fill="none" stroke="url(#stroke)" stroke-width="5"/>
+<path d="M870 20L1060 150L870 280M960 20L1150 150L960 280" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-opacity=".24"/>
+<circle cx="1050" cy="150" r="115" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity=".2"/><circle cx="1050" cy="150" r="82" fill="none" stroke="#a78bfa" stroke-opacity=".25"/>
+<text x="72" y="68" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" letter-spacing="5" fill="#c4b5fd">SYSTEMOZ.DEV  /  001</text>
+<text x="70" y="166" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="5" fill="#ffffff">SYSTEM<tspan fill="#a78bfa">OZ</tspan></text>
+<rect x="72" y="185" width="535" height="3" rx="1" fill="url(#stroke)"/>
+<text x="72" y="230" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600" letter-spacing="3.5" fill="#ddd6fe">BUILD. AUTOMATE. SECURE. EXPLORE.</text>
+<text x="72" y="268" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.6" fill="#aaa2bd">SOFTWARE  /  WEB  /  PYTHON  /  AI  /  SECURITY</text>
+<text x="998" y="165" font-family="monospace" font-size="45" fill="#c4b5fd" text-anchor="middle">&lt;/&gt;</text>
+</svg>
